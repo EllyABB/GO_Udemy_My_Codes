@@ -25,3 +25,7 @@ Para más info (https://how-to.fandom.com/wiki/How_to_untar_a_tar_file_or_gzip-b
 
 Para salir del usuario root:
 > $ exit
+
+
+## Compilación
+> $ go run name.go
