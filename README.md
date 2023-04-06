@@ -20,7 +20,8 @@ para acceder como root
 
 Entonces me muevo a la carpeta y descomprimo
 > $ tar xzf go1.20.3.linux-amd64.tar.gz
-para más info (https://how-to.fandom.com/wiki/How_to_untar_a_tar_file_or_gzip-bz2_tar_file)
+
+Para más info (https://how-to.fandom.com/wiki/How_to_untar_a_tar_file_or_gzip-bz2_tar_file)
 
 Para salir del usuario root:
 > $ exit
