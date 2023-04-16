@@ -27,5 +27,9 @@ Para salir del usuario root:
 > $ exit
 
 
+Necesito hacer esto siempre: ¿Porqué?
+export PATH=$PATH:/usr/local/go/bin
+
+
 ## Compilación
 > $ go run name.go
