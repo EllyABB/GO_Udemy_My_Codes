@@ -28,10 +28,10 @@ Para salir del usuario root:
 
 
 Necesito hacer esto siempre: 
-> export PATH=$PATH:/usr/local/go/bin \\
-Para evitarlo, tuve que editar el archivo: 
-> cd /etc/
-> nano bash.bashrc
+> export PATH=$PATH:/usr/local/go/bin  
+Para evitarlo, tuve que editar el archivo:   
+> cd /etc/  
+> nano bash.bashrc  
 Poner en la primera linea el anterior export. y guardarlo.
 
 
