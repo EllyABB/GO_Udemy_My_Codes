@@ -27,8 +27,13 @@ Para salir del usuario root:
 > $ exit
 
 
-Necesito hacer esto siempre: ¿Porqué?
-export PATH=$PATH:/usr/local/go/bin
+Necesito hacer esto siempre: 
+> export PATH=$PATH:/usr/local/go/bin \\
+Para evitarlo, tuve que editar el archivo: 
+> cd /etc/
+> nano bash.bashrc
+Poner en la primera linea el anterior export. y guardarlo.
+
 
 
 ## Compilación
