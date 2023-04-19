@@ -29,6 +29,7 @@ Para salir del usuario root:
 
 Necesito hacer esto siempre: 
 > export PATH=$PATH:/usr/local/go/bin  
+
 Para evitarlo, tuve que editar el archivo:   
 > cd /etc/  
 > nano bash.bashrc  
@@ -44,9 +45,15 @@ También, para construir un ejecutable
 
 # Jupyter in go!
 Se necesita instalar. Para linux funciona perfectamente:
->   go install github.com/gopherdata/gophernotes@v0.7.5
-  mkdir -p ~/.local/share/jupyter/kernels/gophernotes
-  cd ~/.local/share/jupyter/kernels/gophernotes
-  cp "$(go env GOPATH)"/pkg/mod/github.com/gopherdata/gophernotes@v0.7.5/kernel/*  "."
-  chmod +w ./kernel.json # in case copied kernel.json has no write permission
-  sed "s|gophernotes|$(go env GOPATH)/bin/gophernotes|" < kernel.json.in > kernel.json
+>   go install github.com/gopherdata/gophernotes@v0.7.5  
+  mkdir -p ~/.local/share/jupyter/kernels/gophernotes  
+  cd ~/.local/share/jupyter/kernels/gophernotes  
+  cp "$(go env GOPATH)"/pkg/mod/github.com/gopherdata/gophernotes@v0.7.5/kernel/*  "."  
+  chmod +w ./kernel.json # in case copied kernel.json has no write permission  
+  sed "s|gophernotes|$(go env GOPATH)/bin/gophernotes|" < kernel.json.in > kernel.json  
+    
+    
+    
+    
+      
+Pero para más info, con videos muy bonitos: https://github.com/gopherdata/gophernotes
