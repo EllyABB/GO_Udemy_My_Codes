@@ -1,0 +1,10 @@
+github.com/EllyABB/Example_package v0.0.0-20230513183237-85c39d8abf8b h1:kCAb3YaQ1bbWzReOHGnAJZA9p7Dq6DJ/GhScY5tFBMk=
+github.com/EllyABB/Example_package v0.0.0-20230513183237-85c39d8abf8b/go.mod h1:0x2b4WxrcVtYb2/6vDw4l7FqkpZyoLqy6teBpkCSi90=
+github.com/EllyABB/Example_package v0.0.0-20230513190454-55e5475187b6 h1:cviwi0GAMVKO/qNioR81i+f4OJ/FJ8bX+WhaIDxvQQw=
+github.com/EllyABB/Example_package v0.0.0-20230513190454-55e5475187b6/go.mod h1:0x2b4WxrcVtYb2/6vDw4l7FqkpZyoLqy6teBpkCSi90=
+github.com/EllyABB/Example_package v0.0.0-20230513193436-d3d067ce8927 h1:oHGPXRjrFOtr9/nRDo0OvpOJ+HYU3sRY/Oo5YLhnzdM=
+github.com/EllyABB/Example_package v0.0.0-20230513193436-d3d067ce8927/go.mod h1:fqgLZjmCECEysVfD+sRNVSe2pHCkJlwvWeZFVYWi5zY=
+github.com/EllyABB/Example_package v0.0.0-20230514233927-c69f1f999fa9 h1:VLXk9h2gQaPBBX7r4QTL9O3ZryckkmsCzq4ubkoKa24=
+github.com/EllyABB/Example_package v0.0.0-20230514233927-c69f1f999fa9/go.mod h1:mAlOfLXT2ZhevpReFD+6leXGSLougTJ14k/BmDjcesg=
+github.com/EllyABB/Example_sub_mod v0.0.0-20230514233342-b76bc2f93df4 h1:XCzxbgvUIPGtuZWAZO3eJvWz4jrw4eyHe0hJpcGkVNo=
+github.com/EllyABB/Example_sub_mod v0.0.0-20230514233342-b76bc2f93df4/go.mod h1:4HPzDHLOaD5xzMbUr7kS9T2tbgHl1RJiO+dMW+kDEXE=

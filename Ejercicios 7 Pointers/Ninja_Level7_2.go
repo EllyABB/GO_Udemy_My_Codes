@@ -20,7 +20,5 @@ func main(){
     
     // Sin los apuntadores esto no funcionaría!! 
     changeMe(&p1,"Anne")
-    fmt.Println(p1.name)
-    
-    
+    fmt.Println(p1.name)   
 }
