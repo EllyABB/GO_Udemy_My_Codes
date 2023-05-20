@@ -8,3 +8,5 @@ github.com/EllyABB/Example_package v0.0.0-20230514233927-c69f1f999fa9 h1:VLXk9h2
 github.com/EllyABB/Example_package v0.0.0-20230514233927-c69f1f999fa9/go.mod h1:mAlOfLXT2ZhevpReFD+6leXGSLougTJ14k/BmDjcesg=
 github.com/EllyABB/Example_sub_mod v0.0.0-20230514233342-b76bc2f93df4 h1:XCzxbgvUIPGtuZWAZO3eJvWz4jrw4eyHe0hJpcGkVNo=
 github.com/EllyABB/Example_sub_mod v0.0.0-20230514233342-b76bc2f93df4/go.mod h1:4HPzDHLOaD5xzMbUr7kS9T2tbgHl1RJiO+dMW+kDEXE=
+golang.org/x/crypto v0.9.0 h1:LF6fAI+IutBocDJ2OT0Q1g8plpYljMZ4+lty+dsqw3g=
+golang.org/x/crypto v0.9.0/go.mod h1:yrmDGqONDYtNj3tH8X9dzUun2m2lzPa9ngI6/RUPGR0=
