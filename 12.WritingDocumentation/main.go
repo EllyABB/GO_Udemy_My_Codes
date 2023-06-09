@@ -7,7 +7,7 @@ import (
 
 func main(){
     
-    a:= Dog.Years(3)
+    a:= 3
     fmt.Println(a)
     
 }
